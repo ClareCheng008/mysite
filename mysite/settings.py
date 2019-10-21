@@ -25,7 +25,8 @@ SECRET_KEY = '43+j(d(e1!rkv4l77n4_f14w43#z-zfrr2$0&zsw=&xc+aga8l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['www.clare.fun','192.168.1.9']
+#ALLOWED_HOSTS = ['www.clare.fun','192.168.1.9']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
